@@ -33,5 +33,5 @@ EasyEnsembleClassifier
 - The precision is 99%.
 - The recall is 94%.
 
-##Summary
+## Summary
 If one of these models had to be used I would recommend the EasyEsmembly. Although this model could be faulty, it was the best at predictiting high-risk credit. I do not think there would ever be a perfect model but know what matters most to the business could help make that decision.
